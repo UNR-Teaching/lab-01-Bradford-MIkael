@@ -1,0 +1,5 @@
+WE have created a "newfile.txt" file. Also When applying '>' to ls it adds a new file of your choosing.
+After applying git status it says changes to be commited.
+diff --git a/newfile.txt b/newfile.txt
+index 3379623..bbef363 100644
+Binary files a/newfile.txt and b/newfile.txt differ
